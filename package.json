@@ -1,0 +1,19 @@
+{
+  "name": "featureizr",
+  "version": "0.0.1",
+  "description": "Custom modernizr builds for only the features present in your code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modernizr"
+  ],
+  "author": "Tyler Hughes <iampbt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "css": "^2.2.1",
+    "glob": "^5.0.15",
+    "lodash": "^3.10.1"
+  }
+}
